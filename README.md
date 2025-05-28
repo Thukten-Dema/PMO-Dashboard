@@ -3,7 +3,7 @@
 ### 👥 Built by:
 Asseh Nepal, Bidash Gurung, Pema Chozom, Pema Yangchen, Thukten Dema  
 Under the guidance of Mr. Yonten Jamtsho  
-👩‍💻 Final Year Capstone Project | Gyalpozhing College of Information Technology, RUB
+👩‍💻 Final Year Capstone Project | Gyalpozhing College of Information Technology
 
 
 
