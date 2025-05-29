@@ -48,6 +48,9 @@ Key users such as the PM, ministers, and government officials can securely view 
 - Developed skills in dashboard UX/UI, data visualization, and filter logic  
 - Understood real-world deployment, stakeholder communication, and presentation
 
+### 🎨 UI/UX Design (Figma)
+
+- [View PMO Dashboard UI Prototype on Figma](https://www.figma.com/proto/ebXHenfywhTVHdcz9S1Ar4/PMO-Dashboard?node-id=38-3&t=tgt3pMQ0p5SfyI1p-1)
 
 
 
